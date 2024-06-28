@@ -9,7 +9,7 @@
 		
 		<servlet>
 			<servlet-name>contact</servlet-name>
-			<servlet-class>com.customer.contactServlet</servlet-class>
+			<servlet-class>com.customer.contactServlet </servlet-class>
 			
 		</servlet>
 		
